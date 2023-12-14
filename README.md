@@ -23,3 +23,11 @@ pip install -r requirements.txt
 ```
 python3 code.py
 ```
+### 5. Installer Jupyter Notebook :
+```
+pip install jupyter
+```
+### 6. Lancer le Serveur Jupiter:
+```
+jupyter notebook
+```
