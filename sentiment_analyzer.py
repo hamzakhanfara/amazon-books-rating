@@ -23,4 +23,4 @@ data['hybrid_score'] = data['review/score'] * data['normalized_score']
 
 print(data[['normalized_score','review/score', 'hybrid_score']].head())
 data.to_csv("analyzed_dataset/analyzed_data.csv",index=False)
-print('done saving data')
+print('done saving datas')
