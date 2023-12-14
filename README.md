@@ -6,7 +6,7 @@
 
    ```
    git clone git@github.com:hamzakhanfara/amazon-books-ratings.git
-   cd mon-projet
+   cd amazon-books-ratings
    ```
 ### 2. Créez un environnement virtuel (optionnel mais recommandé) :
    ```
