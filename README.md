@@ -2,24 +2,24 @@
 
 ## Configuration de l'environnement de travail
 
-### 1. Clonez le dépôt :
+### 1. Cloner le dépôt :
 
    ```
    git clone git@github.com:hamzakhanfara/amazon-books-ratings.git
    cd amazon-books-ratings
    ```
-### 2. Créez un environnement virtuel (optionnel mais recommandé) :
+### 2. Créer un environnement virtuel (optionnel mais recommandé) :
    ```
    python -m venv venv
    source venv/bin/activate  # Pour Linux/Mac
    #ou
    .\venv\Scripts\activate  # Pour Windows
   ```
-### 3. Installez les dépendances :
+### 3. Installer les dépendances :
 ```
 pip install -r requirements.txt
 ```
-### 4. Exécutez votre code :
+### 4. Exécuter votre code :
 ```
 python3 code.py
 ```
